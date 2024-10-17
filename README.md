@@ -1,5 +1,5 @@
 # 티켓보라
-
+<img src="https://github.com/danlacode/TeamProject01/blob/main/portfolio/tiketbora.png?raw=true" alt="actor" width="400" height="400" />
 
 ## 기술스택
 
