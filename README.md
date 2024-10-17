@@ -67,3 +67,15 @@
 |Q&A|Q&A폼| 
 |------|--------|
 | <img src="https://github.com/danlacode/TeamProject01/blob/main/portfolio/QnA.png?raw=true" alt="actor" width="300" height="300" /> |<img src="https://github.com/danlacode/TeamProject01/blob/main/portfolio/QnaForm.png?raw=true" alt="review" width="300" height="400" /> |
+
+|My리뷰 |My리뷰 수정| 
+|------|--------|
+| <img src="https://github.com/danlacode/TeamProject01/blob/main/portfolio/myReview.png?raw=true" alt="actor" width="300" height="300" /> |<img src="https://github.com/danlacode/TeamProject01/blob/main/portfolio/updateReview.png?raw=true" alt="review" width="300" height="300" /> |
+
+|My리뷰 삭제|삭제된 My리뷰| 
+|------|--------|
+| <img src="https://github.com/danlacode/TeamProject01/blob/main/portfolio/deleteReview.png?raw=true" alt="actor" width="300" height="300" /> |<img src="https://github.com/danlacode/TeamProject01/blob/main/portfolio/deleteReview2.png?raw=true" alt="review" width="300" height="300" /> |
+
+|전체 삭제|삭제된 화면| 
+|------|--------|
+| <img src="https://github.com/danlacode/TeamProject01/blob/main/portfolio/deleteAll.png?raw=true" alt="actor" width="300" height="300" /> |<img src="https://github.com/danlacode/TeamProject01/blob/main/portfolio/deleteAll2.png?raw=true" alt="review" width="300" height="300" /> |
