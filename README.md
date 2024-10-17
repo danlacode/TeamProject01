@@ -46,7 +46,8 @@
 
 ## 역할
 뮤지컬 상세정보에서 Q&A페이지, 리뷰페이지, 등장인물 정보 페이지,
-마이페이지에서 myQ&A페이지, my리뷰페이지 등을 담당했습니다
+마이페이지에서 myQ&A페이지, my리뷰페이지 등을 담당했습니다.
+
 ## DB설계
 ![ERD](https://github.com/rlaalstlr09/Musical/blob/main/portfolio/ER%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.png)
 ## 사이트 맵
