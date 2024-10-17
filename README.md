@@ -56,18 +56,23 @@
 [티켓보라PDF](https://github.com/rlaalstlr09/Musical/blob/main/portfolio/%ED%8B%B0%EC%BC%93%EB%B3%B4%EB%9D%BC.pdf)
 
 ## 실행 화면
+
+## 뮤지컬 상세정보 -등장인물&배우
 |등장인물|배우 정보| 
 |------|--------|
 | <img src="https://github.com/danlacode/TeamProject01/blob/main/portfolio/character.png?raw=true" alt="character" width="300" height="300" /> | <img src="https://github.com/danlacode/TeamProject01/blob/main/portfolio/actor.png?raw=true" alt="actor" width="300" height="300" /> |<img src="https://github.com/danlacode/TeamProject01/blob/main/portfolio/review.png?raw=true" alt="review" width="400" height="400" /> |
 
+## 뮤지컬 상세정보 -리뷰 페이지
 |리뷰|리뷰 폼|
 |------|--------|
 | <img src="https://github.com/danlacode/TeamProject01/blob/main/portfolio/review.png?raw=true" alt="character" width="300" height="300" /> | <img src="https://github.com/danlacode/TeamProject01/blob/main/portfolio/review.png?raw=true" alt="character" width="300" height="300" /> |
 
+## 뮤지컬 상세정보 -Q&A페이지
 |Q&A|Q&A폼| 
 |------|--------|
 | <img src="https://github.com/danlacode/TeamProject01/blob/main/portfolio/QnA.png?raw=true" alt="actor" width="300" height="300" /> |<img src="https://github.com/danlacode/TeamProject01/blob/main/portfolio/QnaForm.png?raw=true" alt="review" width="300" height="400" /> |
 
+## 마이페이지 -My리뷰
 |My리뷰 |My리뷰 수정| 
 |------|--------|
 | <img src="https://github.com/danlacode/TeamProject01/blob/main/portfolio/myReview.png?raw=true" alt="actor" width="300" height="300" /> |<img src="https://github.com/danlacode/TeamProject01/blob/main/portfolio/updateReview.png?raw=true" alt="review" width="300" height="300" /> |
@@ -79,3 +84,13 @@
 |전체 삭제|삭제된 화면| 
 |------|--------|
 | <img src="https://github.com/danlacode/TeamProject01/blob/main/portfolio/deleteAll.png?raw=true" alt="actor" width="300" height="300" /> |<img src="https://github.com/danlacode/TeamProject01/blob/main/portfolio/deleteAll2.png?raw=true" alt="review" width="300" height="300" /> |
+
+## 마이페이지 -MyQnA 
+|MyQ&A|MyQ&A 수정| 
+|------|--------|
+| <img src="https://github.com/danlacode/TeamProject01/blob/main/portfolio/myQnA.png?raw=true" alt="QnA" width="300" height="300" /> |<img src="https://github.com/danlacode/TeamProject01/blob/main/portfolio/updateQnA.png?raw=true" alt="QnA" width="300" height="300" /> |
+
+|전체 삭제|삭제된 화면| 
+|------|--------|
+| <img src="https://github.com/danlacode/TeamProject01/blob/main/portfolio/deleteAllQnA.png?raw=true" alt="QnA" width="300" height="300" /> |<img src="https://github.com/danlacode/TeamProject01/blob/main/portfolio/deleteAllQnA2.png?raw=true" alt="QnA" width="300" height="300" /> |
+
