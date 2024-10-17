@@ -2,13 +2,25 @@
 
 
 ## 기술스택
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+
+### ✔️Frond-end
 ![JSP](https://img.shields.io/badge/JSP-2F80ED?style=flat&logo=java&logoColor=white)
-![SpringSecurity](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![Kakao](https://img.shields.io/badge/KakaoMapAPI-FFCD00?style=flat&logo=kakao&logoColor=black)
+
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
+![BootStrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
+![Swiper](https://img.shields.io/badge/swiper-%236332F6.svg?&style=for-the-badge&logo=swiper&logoColor=white)
+### ✔️Back-end
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+
+
 ![SpringSecurity](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=springsecurity&logoColor=white)
 ![OracleSQL](https://img.shields.io/badge/OracleSQL-F80000?style=flat&logo=oracle&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black)
-![Kakao](https://img.shields.io/badge/KakaoMapAPI-FFCD00?style=flat&logo=kakao&logoColor=black)
+
 
 
 ## 팀원
