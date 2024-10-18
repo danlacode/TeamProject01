@@ -35,7 +35,7 @@
     <th>역할</th>
   </tr>
   <tr>
-    <td>김민식</td>
+    <td>[김민식](https://github.com/rlaalstlr09)</td>
     <td>뮤지컬 리스트, 뮤지컬 상세보기, 공연장 정보, 판매정보탭</td>
   </tr>
   <tr>
@@ -43,19 +43,19 @@
     <td>등장인물, 리뷰 Q&A탭, 마이페이지 MyQ&A, My리뷰페이지</td>
   </tr>
   <tr>
-    <td>박선준</td>
+    <td>[박선준](https://github.com/adventureJava)</td>
     <td>관리자 기능, 팩스 문서 찾기, 근처 공연장 찾기</td>
   </tr>
   <tr>
-    <td>이승환</td>
+    <td>[이승환](https://github.com/lshstory0805)</td>
     <td>로그인, 회원가입, 회원 정보 수정, 회원 탈퇴, 찜 목록, 1:1문의</td>
   </tr>
   <tr>
-    <td>최광필</td>
+    <td>[최광필](https://github.com/dodamdo)</td>
     <td>뮤지컬 일정 선택, 죄석 예약, 결제API, 뮤지컬 예약 내역</td>
   </tr>
   <tr>
-    <td>하슬기</td>
+    <td>[하슬기](https://github.com/dkrlquf )</td>
     <td>메인페이지, 헤더, 푸터, CSS</td>
   </tr>
 </table>
