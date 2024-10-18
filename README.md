@@ -43,19 +43,19 @@
     <td>등장인물, 리뷰 Q&A탭, 마이페이지 MyQ&A, My리뷰페이지</td>
   </tr>
   <tr>
-    <td>[박선준](https://github.com/adventureJava)</td>
+    <td><a href="https://github.com/adventureJava">박선준</a></td>
     <td>관리자 기능, 팩스 문서 찾기, 근처 공연장 찾기</td>
   </tr>
   <tr>
-    <td>[이승환](https://github.com/lshstory0805)</td>
+    <td><a href="https://github.com/lshstory0805">이승환</a></td>
     <td>로그인, 회원가입, 회원 정보 수정, 회원 탈퇴, 찜 목록, 1:1문의</td>
   </tr>
   <tr>
-    <td>[최광필](https://github.com/dodamdo)</td>
+    <td><a href="https://github.com/dodamdo">최광필</a></td>
     <td>뮤지컬 일정 선택, 죄석 예약, 결제API, 뮤지컬 예약 내역</td>
   </tr>
   <tr>
-    <td>[하슬기](https://github.com/dkrlquf )</td>
+    <td><a href="https://github.com/dkrlquf">하슬기</a></td>
     <td>메인페이지, 헤더, 푸터, CSS</td>
   </tr>
 </table>
