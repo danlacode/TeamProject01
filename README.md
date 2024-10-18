@@ -35,7 +35,7 @@
     <th>역할</th>
   </tr>
   <tr>
-    <td>[김민식](https://github.com/rlaalstlr09)</td>
+    <td><a href="https://github.com/rlaalstlr09">김민식</a></td>
     <td>뮤지컬 리스트, 뮤지컬 상세보기, 공연장 정보, 판매정보탭</td>
   </tr>
   <tr>
